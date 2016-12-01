@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 301e731f02e220f498d69f9932122bee
+timeCreated: 1480334149
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ahorn
+    100002: //RootNode
+    100004: Arch41_064
+    100006: Ebene
+    100008: Feld-Ahorn
+    100010: Feld-Ahorn_MeshPart0
+    100012: Feld-Ahorn_MeshPart1
+    100014: Kamera
+    100016: Sonne
+    100018: Spline-Objekt
+    100020: Umgebung
+    400000: Ahorn
+    400002: //RootNode
+    400004: Arch41_064
+    400006: Ebene
+    400008: Feld-Ahorn
+    400010: Feld-Ahorn_MeshPart0
+    400012: Feld-Ahorn_MeshPart1
+    400014: Kamera
+    400016: Sonne
+    400018: Spline-Objekt
+    400020: Umgebung
+    2300000: Arch41_064
+    2300002: Ebene
+    2300004: Feld-Ahorn_MeshPart0
+    2300006: Feld-Ahorn_MeshPart1
+    2300008: Umgebung
+    3300000: Arch41_064
+    3300002: Ebene
+    3300004: Feld-Ahorn_MeshPart0
+    3300006: Feld-Ahorn_MeshPart1
+    3300008: Umgebung
+    4300000: Umgebung
+    4300002: Ebene
+    4300004: Arch41_064
+    4300006: Feld-Ahorn_MeshPart0
+    4300008: Feld-Ahorn_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
